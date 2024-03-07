@@ -33,6 +33,7 @@ After that, you can go ahead and flash the coundown sketch.
 Improvement ideas
 =================
 
+- 🏆 Figure out why the RTC doesn't keep the time when it is powered off
 - Adding WiFi/BLE support to set the time (RTC time and target countdown time) remotely
 - Doing something with the RGB LEDs
 
