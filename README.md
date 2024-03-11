@@ -21,11 +21,11 @@ After the sketch is uploaded, open a serial terminal and send a string like this
 
     YYMMDDwHHMMSSx
 
-Where `YY` is the year, `MM` is the month, `DD` is the day, `w` is the day of the week (monday=0, tuesday=1, ...), `HH` is the 24-hour time, `MM` are the minutes, and `SS` are the seconds. 
+Where `YY` is the year, `MM` is the month, `DD` is the day, `w` is the day of the week (monday=0, tuesday=1, ...), `HH` is the 24-hour time, `MM` are the minutes, and `SS` are the seconds. 'x' is a termination character.
 
 For example, to set the date to 2024-03-07 07:20:30 you would send:
 
-    2403074072055x
+    2403074072030x
 
 The serial readback should tell you that you have updated the time.
 After that, you can go ahead and flash the coundown sketch.
