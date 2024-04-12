@@ -1,7 +1,7 @@
 Countdown clock
 ===============
 
-This repository contains the code to run the Countdown Clock, a 1.23x0.43 meter wall-mounted device designed to remind your colleagues that the deadline is fast approaching! 
+This repository contains the code to run the Countdown Clock, a 1.23x0.43 meter wall-mounted device designed to remind your colleagues that the deadline is fast approaching! [Gamer mode](media/gamer_mode.mp4) purchased separately.
 
 ![Picture of the Countdown Clock in a dark room](media/clock.jpg)
 
