@@ -3,7 +3,7 @@ Countdown clock
 
 This repository contains the code to run the Countdown Clock, a 1.23x0.43 meter wall-mounted device designed to remind your colleagues that the deadline is fast approaching! 
 
-![media/clock.jpg]
+![Picture of the Countdown Clock in a dark room](media/clock.jpg)
 
 It's written in Arduino and targets the NodeMCU-32S board.
 Follow [these](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) instructions to install the Arduino board.
